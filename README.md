@@ -1,13 +1,9 @@
 # Named Entity Recognition
 
 ## AIM
-
 To develop an LSTM-based model for recognizing the named entities in the text.
-
 ## Problem Statement and Dataset
-
 The aim of this experiment is to develop an LSTM-based neural network model using Bidirectional Recurrent Neural Networks for recognizing the named entities in the text. The dataset has many sentences each having many words with their respective tags. We vectorize these words using Embedding techniques to train our model.Bidirectional Recurrent Neural Networks connect two hidden layers of opposite directions to the same output. With this form of generative deep learning, the output layer can get information from past and future states simultaneously.
-
 ![image](https://github.com/rexlinrajan2004/named-entity-recognition/assets/119406566/f9538782-12a4-46b2-900e-e220d319919d)
 
 ## Neural Network Model
